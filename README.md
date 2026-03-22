@@ -23,7 +23,7 @@ Number of Inversions
 Manufacturer  
 
 
-## 📊 Visualizations
+## Visualizations
 
 ### Dashboard 1
 
@@ -42,7 +42,7 @@ Manufacturer
 4. Presence of **outliers** representing extreme coasters  
 
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python  
 - Pandas  
@@ -63,7 +63,7 @@ Build predictive models
 EDA helps in understanding the dataset, identifying patterns, and preparing data for machine learning applications.
 
 
-## 👨‍💻 Author
+##  Author
 
 **Sourabh**  
 GitHub: https://github.com/sourabh9098
